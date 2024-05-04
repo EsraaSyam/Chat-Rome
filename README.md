@@ -27,6 +27,14 @@ pip install pyqt5
 
 ### Usage
 
+Run the `server.py` script:
+
+```
+pyrhon server.py
+```
+
+then
+
 Run the `client.py` script:
 
 ```
